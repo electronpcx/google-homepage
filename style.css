@@ -29,7 +29,10 @@ body {
 
 #googleapps {
     background-image: url("./images/googleapp.png");
-    background-position: center;
+    background-size: 505px 60px;
+    background-position: -132px -32px;
+    padding: 0 17px;
+    opacity: 0.55;
 }
 
 a#sign-in:link,
